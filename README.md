@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Vasu Garg
+## Hi there 👋, I'm Vasu Garg
 
-## 🔭 I’m currently working on my portfolio site with GitHubify
+### 🔭 I’m currently working on my portfolio site with GitHubify
 
 <!--
 **VasuGargDev/VasuGargDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
