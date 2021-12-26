@@ -1,8 +1,8 @@
 <div align="center">
-<img width="70%" height = "" src="https://github.com/VasuGargDev/VasuGargDev/blob/main/img/dark%20banner.png" alt="cover" />
+<img width="70%" height = "" src="https://github.com/VasuGargDev/VasuGargDev/blob/main/img/dark%20banner.png"  />
 <img src=https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Hnet-image%20(3).gif width="667px">  
 </div>
-
+#alt="cover"
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
