@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "" src="https://github.com/VasuGargDev/VasuGargDev/blob/main/img/dark%20banner.png" alt="cover" />
+<img width="70%" height = "" src="https://github.com/VasuGargDev/VasuGargDev/blob/main/img/dark%20banner.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
