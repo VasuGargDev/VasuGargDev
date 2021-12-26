@@ -8,7 +8,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=96354306.96354306)
 
 </p>
-<div size='20px'> ## Hi! My name is Vasu Garg. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> 
+  <H2> Hi! My name is Vasu Garg. Thank You for taking the time to view my GitHub Profile :smile: </H2>
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -70,7 +71,7 @@
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
 -->
  <div align="center">
-### Show some ❤️ by starring the repos!
+   <H3>Show some ❤️ by starring the repos! </H3>
 </div> 
 <!--
 ## Hi there 👋, I'm Vasu Garg
