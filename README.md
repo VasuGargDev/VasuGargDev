@@ -45,7 +45,7 @@
 
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
-%m <a href = "https://www.linkedin.com/in/vasugargacm/" target="_blank">
+<a href = "https://www.linkedin.com/in/vasugargacm/" target="_blank">
 <img alt='linkedin' width = '32px' align= 'center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg' />
 </a> 
 <a href = "https://twitter.com/VasuGargDev" target="_blank">
@@ -57,7 +57,7 @@
 <a href = "https://vasugargdev.me/" target="_blank">
 <img alt='website' width = '32px' align= 'center'  src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png' />
 </a>
-  
+<a href="mailto:vasugargacm@gmail.com" target="_blank"> <img src="https://github.com/VasuGargDev/VasuGargDev/blob/main/img/icons8-gmail-64.png" /> </a>
 
   <!--
 
