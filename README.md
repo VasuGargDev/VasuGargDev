@@ -44,11 +44,11 @@
 
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a target='_blank' href = 'https://www.linkedin.com/in/vasugargacm/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"> </a> 
-<a target='_blank' href = 'https://twitter.com/VasuGargDev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"> <span style="display:none">x</span> </a> 
-<a target='_blank' href = 'https://github.com/VasuGargDev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> <span style="display:none">x</span> </a> 
-<a target='_blank' href = 'https://vasugargdev.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"> <span style="display:none">x</span> </a> 
+<h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
+<a href = "https://www.linkedin.com/in/vasugargacm/" target="_blank"><img width = "32px" align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
+<a href = "https://twitter.com/VasuGargDev" target="_blank"><img width = "32px" align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"></a> 
+<a href = "https://github.com/VasuGargDev" target="_blank"><img width = "32px" align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a> 
+<a href = "https://vasugargdev.me/" target="_blank"><img width = "32px" align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"></a> 
 
   <!--
 
