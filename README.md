@@ -18,9 +18,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Portfolio project
+- 🔭 I’m currently working at NTT Data
 
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently learning DevOps
 
 - 👯 I’m looking to collaborate on Projects 
 
